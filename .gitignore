@@ -4,12 +4,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# 출력 파일
-output/
-test/
-*.jpg
-*.png
-
 # 시스템 파일
 .DS_Store
 *.swp
@@ -23,4 +17,3 @@ test/
 *.npz
 *.mp4
 *.deb
-reference*.jpg
