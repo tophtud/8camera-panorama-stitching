@@ -1,1 +1,0 @@
-frame_idx,timestamp,receive_ms,stitch_ms,display_ms,save_img_ms,save_video_ms,loop_ms,loop_fps,stitch_fps_est,udp1_fps,udp2_fps

@@ -4,14 +4,11 @@ __pycache__/
 *.pyo
 *.pyd
 
-# 출력 파일 (용량 큰 경우)
+# 출력 파일
 output/
 test/
 *.jpg
 *.png
-
-# 캘리브레이션 이미지 (용량 큰 경우, 필요하면 제외)
-# calibration_images/
 
 # 시스템 파일
 .DS_Store
@@ -23,4 +20,7 @@ test/
 *.tmp
 
 # 기타
+*.npz
+*.mp4
+*.deb
 reference*.jpg
