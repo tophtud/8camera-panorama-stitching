@@ -1,0 +1,26 @@
+# Python 캐시
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 출력 파일 (용량 큰 경우)
+output/
+test/
+*.jpg
+*.png
+
+# 캘리브레이션 이미지 (용량 큰 경우, 필요하면 제외)
+# calibration_images/
+
+# 시스템 파일
+.DS_Store
+*.swp
+*~
+
+# 임시 파일
+*.log
+*.tmp
+
+# 기타
+reference*.jpg
